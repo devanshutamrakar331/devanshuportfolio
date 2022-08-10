@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/devanshuportfolio/static/css/main.aa19c77a.css",
+    "main.js": "/devanshuportfolio/static/js/main.b176f50c.js",
+    "static/media/image1.png": "/devanshuportfolio/static/media/image1.ed266332293c825e21a2.png",
+    "static/media/image3.png": "/devanshuportfolio/static/media/image3.7eea8a8fa97d13f6ae52.png",
+    "static/media/image2.png": "/devanshuportfolio/static/media/image2.a9b504c888c13fb83dda.png",
+    "static/media/image5.png": "/devanshuportfolio/static/media/image5.32a4e84f036917f083aa.png",
+    "static/media/image6.png": "/devanshuportfolio/static/media/image6.ec406b5ac2104dd9252c.png",
+    "static/media/image4.png": "/devanshuportfolio/static/media/image4.ffe5684df95ce361e19b.png",
+    "static/media/resumedevanshu.pdf": "/devanshuportfolio/static/media/resumedevanshu.71d87553e859d2e2dd86.pdf",
+    "static/media/react.png": "/devanshuportfolio/static/media/react.f3e576ba08e6be927148.png",
+    "index.html": "/devanshuportfolio/index.html",
+    "main.aa19c77a.css.map": "/devanshuportfolio/static/css/main.aa19c77a.css.map",
+    "main.b176f50c.js.map": "/devanshuportfolio/static/js/main.b176f50c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa19c77a.css",
+    "static/js/main.b176f50c.js"
+  ]
+}
