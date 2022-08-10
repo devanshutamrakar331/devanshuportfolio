@@ -57,19 +57,45 @@ const Navbar = () => {
             className="menu"
             ref={menuRef}
             style={{
-              backgroundColor: `${val.color}`,
-              color: `${val.backgroundColor}`,
+              backgroundColor: `${val.backgroundColor}`,
+              color: `${val.color}`,
             }}
           >
-            <i class="fa-solid fa-xmark" id="cancel"></i>
-            <a href="#">Home</a>
+            <i
+              class="fa-solid fa-xmark"
+              id="cancel"
+              style={{
+                backgroundColor: `${val.backgroundColor}`,
+                color: `${val.color}`,
+              }}
+            ></i>
+            <a
+              href="#"
+              style={{
+                backgroundColor: `${val.backgroundColor}`,
+                color: `${val.color}`,
+              }}
+            >
+              Home
+            </a>
             <a
               href="https://www.instagram.com/wdcreations_devanshu/"
               target="_blank"
+              style={{
+                backgroundColor: `${val.backgroundColor}`,
+                color: `${val.color}`,
+              }}
             >
               Work Sample
             </a>
-            <a href={resume} download>
+            <a
+              href={resume}
+              download
+              style={{
+                backgroundColor: `${val.backgroundColor}`,
+                color: `${val.color}`,
+              }}
+            >
               Download Resume
             </a>
             <a
@@ -81,6 +107,9 @@ const Navbar = () => {
                 width: "120px",
                 justifyContent: "space-around",
                 fontWeight: "500",
+
+                backgroundColor: `${val.backgroundColor}`,
+                color: `${val.color}`,
               }}
             >
               See Github
