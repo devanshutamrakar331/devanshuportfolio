@@ -52,19 +52,25 @@ const Footer = () => {
             <a href="">
               <img src={whatsapp} alt="" />
             </a>
-            <a href="">
+            <a
+              href="https://www.instagram.com/devanshutamrakar331/"
+              target="_blank"
+            >
               <img src={insta} alt="" />
             </a>
-            <a href="">
+            <a
+              href="https://www.facebook.com/devanshu.tamrakar.7"
+              target="_blank"
+            >
               <img src={fb} alt="" />
             </a>
-            <a href="">
+            <a href="https://github.com/devanshutamrakar331/">
               <img src={github} alt="" />
             </a>
           </div>
         </div>
       </div>
-      <div className="section" > Made by Devanshu with &#10084;</div>
+      <div className="section"> Made by Devanshu with &#10084;</div>
     </div>
   );
 };

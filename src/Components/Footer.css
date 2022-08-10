@@ -62,6 +62,11 @@
   margin-top: 4vw;
   /* background: #000; */
 }
+.contact span {
+  text-shadow: orange;
+  font-weight: 800;
+  color: rgb(246, 82, 12);
+}
 .icons {
   margin-top: 2vh;
   width: 80%;

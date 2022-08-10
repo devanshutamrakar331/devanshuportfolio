@@ -53,7 +53,14 @@ const Navbar = () => {
 
       <div className="nav-toggle" onClick={(e) => open()}>
         {toggle === true ? (
-          <div className="menu" ref={menuRef}>
+          <div
+            className="menu"
+            ref={menuRef}
+            style={{
+              backgroundColor: `${val.color}`,
+              color: `${val.backgroundColor}`,
+            }}
+          >
             <i class="fa-solid fa-xmark" id="cancel"></i>
             <a href="#">Home</a>
             <a

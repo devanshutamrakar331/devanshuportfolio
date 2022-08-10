@@ -47,8 +47,7 @@ const Hero3 = () => {
 
         <img src={react} alt="" />
         <img
-          style={{ marginTop: "2vw" }}
-          src="https://pixabay.com/get/g32ad3ef3122639b26416f443c0a5775052864bb237003911c6ced1ba0e6a925aa39298b043ae0e8ba1ff8bd63faf09b1.png"
+          src="https://camo.githubusercontent.com/730645ff32f6efe57c3049411016e52dc798503a7de8a7831fb1a3432043a75e/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6261746e30353030302f696d6167652f75706c6f61642f76313539363633323535342f395f68617a66696b2e706e67"
           alt=""
         />
         <img

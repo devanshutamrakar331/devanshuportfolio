@@ -1,3 +1,24 @@
+@font-face {
+  font-family: gilroy;
+  src: url(Gilroy-Regular.otf);
+  src: url(Gilroy-Black.otf);
+  src: url(Gilroy-BlackItalic.otf);
+  src: url(Gilroy-Bold.otf);
+  src: url(Gilroy-BoldItalic.otf);
+  src: url(Gilroy-Extrabold.otf);
+  src: url(Gilroy-ExtraboldItalic.otf);
+  src: url(Gilroy-Heavy.otf);
+  src: url(Gilroy-Light.otf);
+  src: url(Gilroy-LightItalic.otf);
+  src: url(Gilroy-Medium.otf);
+  src: url(Gilroy-MediumItalic.otf);
+  src: url(Gilroy-RegularItalic.otf);
+  src: url(Gilroy-Semibold.otf);
+  src: url(Gilroy-SemiboldItalic.otf);
+  src: url(Gilroy-Thin.otf);
+  src: url(Gilroy-ThinItalic.otf);
+  src: url(Gilroy-UltraLightItalic.otf);
+}
 .hero-4 {
   width: 100%;
   height: 110vh;
@@ -98,13 +119,15 @@
     font-size: 4vw;
   }
   .card h3 {
-    font-size: 3vw;
+    font-weight: 400;
+    margin-top: 2vw;
+    font-size: 2.5vw;
   }
   .card h5 {
     font-size: 2.5vw;
     width: 60vw;
     text-align: start;
-    margin-top: 0vw;
+    margin-bottom: 3vw;
   }
   .hero-4 span {
     margin-left: 2vw;
